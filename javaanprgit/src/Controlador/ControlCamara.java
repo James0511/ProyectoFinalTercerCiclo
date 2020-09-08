@@ -101,7 +101,7 @@ public class ControlCamara {
         
         if(pregunta == 0){
             
-            File salidaImagen = new File("Foto"+contador+".jpg");
+            File salidaImagen = new File("Fotoclonada"+contador+".jpg");
             
             try{
                 ImageIO.write(ruta, "jpg", salidaImagen);

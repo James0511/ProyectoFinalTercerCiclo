@@ -10,7 +10,6 @@ import java.awt.FlowLayout;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.sql.ResultSet;
 import javax.imageio.ImageIO;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
